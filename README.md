@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifat!</h1>
 
-- 🌱 I’m currently learning <b>about transformers (NLP)</b>
+- 🌱 I’m currently learning <b>about image segmentations (DL) and transformers (NLP)</b>
 
 - 💬 Ask me about **how to procrastinate :)**
 
