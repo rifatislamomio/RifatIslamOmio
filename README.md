@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifat!</h1>
-- 🌱 I’m currently learning **about transformers (NLP)**
+- 🌱 I’m currently learning <b>about transformers (NLP)</b>
 
 - 💬 Ask me about **how to procrastinate :)**
 
