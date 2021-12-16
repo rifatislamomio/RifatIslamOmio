@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **how to overthink :)**
 
-- 📫 How to reach me **rifatislamomio(.)gmail.com**
+- 📫 Reach me at **rifatislamomio(.)gmail.com**
 
 - ⚡ Fun fact **Git Gui exists!**
 
