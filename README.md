@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifat!</h1>
 
-- 🌱 I’m currently learning about <b> Ξ ₿ 🚀 </b>
+- 🌱 I’m currently learning about <b> Ξ 🚀 </b>
 
 - 💬 Ask me about **how to overthink :)**
 
