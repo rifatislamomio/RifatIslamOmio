@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rifat!</h1>
 
-- 🌱 I’m currently learning <b>about image segmentations (DL) and transformers (NLP)</b>
+- 🌱 I’m currently learning about <b> ⧫ ₿ 🚀 </b>
 
-- 💬 Ask me about **how to procrastinate :)**
+- 💬 Ask me about **how to overthink :)**
 
 - 📫 How to reach me **rifatislamomio(.)gmail.com**
 
