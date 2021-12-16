@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rifat!</h1>
+<img src="https://github.com/RifatIslamOmio/RifatIslamOmio/blob/main/git_readme_cover.png?raw=true" width="100%"/>
+
+<!-- <h1 align="center">Hi 👋, I'm Rifat!</h1> -->
 
 - 🌱 I’m currently learning about <b> Ξ 🚀 </b>
 
