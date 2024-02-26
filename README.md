@@ -2,13 +2,11 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Rifat!</h1> -->
 
-- 🌱 I’m currently learning about <b> Ξ ⚛️ 🕸 </b>
+- 🌱 I’m currently learning about <b> ☁️ </b>
 
-- 💬 Ask me about **how to overthink :)**
+- 💬 Ask me about **anything :)**
 
 - 📫 Reach me at **rifatislamomio(.)gmail.com**
-
-- ⚡ Fun fact **Git Gui exists!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
